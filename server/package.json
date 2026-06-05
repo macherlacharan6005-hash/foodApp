@@ -1,0 +1,10 @@
+{
+  "name": "food-delivery-server",
+  "dependencies": {
+    "express": "^4",
+    "mongoose": "^8",
+    "jsonwebtoken": "^9",
+    "bcryptjs": "^3",
+    "cors": "^2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "food-delivery-client",
+  "dependencies": {
+    "react": "^18",
+    "react-router-dom": "^6",
+    "axios": "^1"
+  }
+}
