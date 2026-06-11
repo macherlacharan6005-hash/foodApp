@@ -1,6 +1,15 @@
 {
-  "name": "food-delivery-client",
+  "name": "food-app",
+  "private": true,
+  "scripts": {
+    "start": "node server/server.js"
+  },
   "dependencies": {
+    "express": "^4",
+    "mongoose": "^8",
+    "jsonwebtoken": "^9",
+    "bcryptjs": "^3",
+    "cors": "^2",
     "react": "^18",
     "react-router-dom": "^6",
     "axios": "^1"
